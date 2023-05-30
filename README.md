@@ -1,2 +1,11 @@
+English | [中文](README-CN.md)
+
 # Awesome-AI-Idea
-Awesome Ideas of AI appliance, Collection of AI-related utilities. Welcome to submit issues and pull requests /分享AI的一些有趣应用，收藏AI相关的实用工具，欢迎提交issues 或者pull requests
+Awesome Ideas of AI appliance, Collection of AI-related utilities. Welcome to submit issues and pull requests.
+
+## All Categories
+- [ChatGPT Applications](#chatgpt-applications)
+
+## ChatGPT appliance
+- [ChatGPT Prompts Generator](https://github.com/f/awesome-chatgpt-prompts) 
+    - A tool for generating ChatGPT prompt words for various applications such as chats, conversations, Q&A, etc.
