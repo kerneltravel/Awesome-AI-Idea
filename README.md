@@ -7,6 +7,7 @@ Awesome Ideas of AI appliance, Collection of AI-related utilities. Welcome to su
 - [ChatGPT Applications](#chatgpt-applications)
 - [AI Painting Resources](#AI-Painting)
 - [AutoGPT Applications](#AutoGPT-Applications)
+- [AI-Assisted Rapid Software Development](#AI-Assisted-Rapid-Software-Development)
 - [License](#License)
 
 ## ChatGPT Applications
@@ -30,6 +31,20 @@ Awesome Ideas of AI appliance, Collection of AI-related utilities. Welcome to su
 | GPT-Consult | This AutoGPT can be used for market simulation analysis to achieve its goals. | [https://twitter.com/emollick/status/1645609531240587265?s=20](https://twitter.com/emollick/status/1645609531240587265?s=20) |
 | Full-Stack-GPT | This AutoGPT can complete complex website construction tasks, including designing web pages, using Bootstrap for beautification, and then using Flask for hosting. | [https://twitter.com/SullyOmarr/status/1644750889432027136?s=20](https://twitter.com/SullyOmarr/status/1644750889432027136?s=20) |
 | Research-GPT | This AutoGPT can be used for researching technology products. It can obtain the top 5 hottest headphones on the market, analyze price factors, and generate research reports automatically. | [https://twitter.com/sairahul1/status/1646360595141206016?s=20](https://twitter.com/sairahul1/status/1646360595141206016?s=20) |
+
+## AI-Assisted Rapid Software Development
+- Programming assistants
+    - GitHub Copilot
+        - A programming assistant developed by GitHub and OpenAI that can generate code by inputting comments.
+        - [GitHub Copilot official website](https://copilot.github.com/)
+- AI-assisted front-end development
+    - [Alibaba ImageCook](https://www.imagecook.com/)
+        - A tool that can assist front-end development with AI. It can generate front-end code by uploading images and can be used to quickly develop web pages.
+    - [AppWorks](https://appworks.site)
+        - A front-end development toolset based on a VS Code plugin that makes front-end development faster and easier.
+            - Features:
+                - Provides a large number of materials with various vertical domain templates and blocks to quickly create projects, supports style switching, and meets personalized needs.
+                - Supports modifying and viewing front-end effects in real-time (npm run start).
 
 ## License
 - [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
