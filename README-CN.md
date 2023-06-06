@@ -6,6 +6,7 @@
 - [ChatGPT应用](#ChatGPT应用)
 - [AI生成图片的资源](#AI-生成图片)
 - [AutoGPT应用](#AutoGPT应用)
+- [AI辅助快速开发软件](#AI-辅助快速开发软件)
 
 ## ChatGPT应用
 - [ChatGPT 提示词生成](https://github.com/f/awesome-chatgpt-prompts) 
@@ -36,5 +37,21 @@
 | Full-Stack-GPT | 这个AutoGPT可以完成复杂的网站建设，包括设计网页、使用bootstrap美化，然后用flask托管等 | [https://twitter.com/SullyOmarr/status/1644750889432027136?s=20](https://twitter.com/SullyOmarr/status/1644750889432027136?s=20) |
 | Research-GPT | 这个AutoGPT可以做科技产品的研究，获取市场最火热的5个耳机，然后分析价格等因素进行比较，自动生成研究报告 | [https://twitter.com/sairahul1/status/1646360595141206016?s=20](https://twitter.com/sairahul1/status/1646360595141206016?s=20) |
 
+## AI 辅助快速开发软件
+- 编程助手
+    - github copilot
+        - 一个由github和openai合作开发的编程助手，可以通过输入注释，自动生成代码。
+        - [github copilot官网](https://copilot.github.com/)
+- AI辅助前端开发
+    - [阿里巴巴imagecook]( https://www.imagecook.com/)
+        - 一个可以通过AI辅助前端开发的工具，可以通过上传图片，自动生成前端代码，可以用于快速开发网页。
+
+    - [AppWorks](https://appworks.site)
+        - 基于 VS Code 插件的前端研发工具集，让前端开发更快更好更轻松。
+            - 特色：
+                - 海量物料提供多种垂直领域模板和区块，快速创建项目，支持风格切换，满足个性化需求。
+                - 支持边修改边看前端效果（npm run start）。
+
+    -
 ## License
 - [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
