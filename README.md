@@ -4,15 +4,24 @@ English | [中文](README-CN.md)
 Awesome Ideas of AI appliance, Collection of AI-related utilities. Welcome to submit issues and pull requests.
 
 ## All Categories
+- [Free AI GPT chat website](#Free-AI-GPT-chat-Tools-in-China-get-answers-for-you-questions)
 - [ChatGPT Applications](#chatgpt-applications)
 - [AI Painting Resources](#AI-Painting)
 - [AutoGPT Applications](#AutoGPT-Applications)
 - [AI-Assisted Rapid Software Development](#AI-Assisted-Rapid-Software-Development)
 - [License](#License)
 
+## Free AI GPT chat Tools in China, get answers for you questions:
+- [openaichat.cc](https://m.openaichat.cc/web/)
+    - AI GPT chat website, you can chat with AI, and get answers for your questions. free of charge. no limit of chat times.
+    ![openaichat.cc github](./assets/images/how_to_chat_by_openaichat.cc.jpg)
+- chatGPT-based on WeChat Official Account, by question chatting to this account: "集简云平台" ![chat screen shortcut](./assets/images/gongzhonghao_chatgpt_qa_20230612103349.jpg)
+
 ## ChatGPT Applications
 - [ChatGPT Prompts Generator](https://github.com/f/awesome-chatgpt-prompts) 
     - A tool for generating ChatGPT prompt words for various applications such as chats, conversations, Q&A, etc.
+- [ChatGPT Prompts quick command](https://www.aishort.top/)
+    - A tool with a large number of ChatGPT prompts ready, which can be used to generate prompts for various applications such as chats, conversations, Q&A, etc. free of charge. [how to use](https://www.aishort.top/docs)
 
 ## AI Painting
 - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)

@@ -3,14 +3,29 @@
 分享AI的一些有趣应用想法，收藏AI相关的实用工具，欢迎提交issues 或者pull requests。
 
 ## 全部分类
+- [中国国内免费的AI chatGPT 问答站点](#中国国内免费的AI-chatGPT-问答站点，你的问题可得到解答)
+- [免费的AI GPT 问答站点](#免费的AI-GPT-问答站点)
+
 - [ChatGPT应用](#ChatGPT应用)
 - [AI生成图片的资源](#AI-生成图片)
 - [AutoGPT应用](#AutoGPT应用)
 - [AI辅助快速开发软件](#AI-辅助快速开发软件)
 
+## 中国国内免费的AI chatGPT 问答站点，你的问题可得到解答
+- [openaichat.cc](https://m.openaichat.cc/web/)
+    - AI GPT chat website, you can chat with AI, and get answers for your questions. free of charge. no limit of chat times.
+    ![openaichat.cc github](./assets/images/how_to_chat_by_openaichat.cc.jpg)
+- chatGPT-based on WeChat Official Account, by question chatting to this account: "集简云平台" ![chat screen shortcut](./assets/images/gongzhonghao_chatgpt_qa_20230612103349.jpg)
+- [openaichat.cc](https://m.openaichat.cc/web/)
+    - 这是一家免费的 AI GPT 问答站点，您可以通过该站点与人工智能聊天，并获得您的问题的答案。无需付费，提问次数没有限制。
+    ![openaichat.cc github](./assets/images/how_to_chat_by_openaichat.cc.jpg)
+- 基于微信公众号的 ChatGPT，通过向账号“集简云平台”发送问题进行问答交流。
+    ![chat screen shortcut](./assets/images/gongzhonghao_chatgpt_qa_20230612103349.jpg)
 ## ChatGPT应用
 - [ChatGPT 提示词生成](https://github.com/f/awesome-chatgpt-prompts) 
     - 一个用于生成ChatGPT提示词的工具，可以用于生成聊天、对话、问答等各种应用。
+- [ChatGPT 提示词快捷命令](https://www.aishort.top/)
+    - 这是一个集成了大量 ChatGPT 提示的工具，可以用于生成各种应用场景的提示，例如聊天、对话、问答等。使用该工具无需付费，免费开放使用。[使用方法](https://www.aishort.top/docs)
 
 ## AI 生成图片
 - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
